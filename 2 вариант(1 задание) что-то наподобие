@@ -1,0 +1,10 @@
+using System;
+
+public class Program
+{
+public static void Main()
+{
+{Console.Write("Введите начало и конец промежутка и вещественное число");
+double x = Convert.ToDouble(Console.ReadLine());}}
+public const float MinValue = -255;
+double y = MinValue;
